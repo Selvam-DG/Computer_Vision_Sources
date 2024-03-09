@@ -1,2 +1,11 @@
-Source: Columbia University
-https://cave.cs.columbia.edu/Statics/monographs/Introduction%20FPCV-0-1.pdf
+- Source: Columbia University
+- Monographs
+  - https://cave.cs.columbia.edu/Statics/monographs/Introduction%20FPCV-0-1.pdf
+  - https://cave.cs.columbia.edu/Statics/monographs/Image%20Formation%20FPCV-1-1.pdf
+  - https://cave.cs.columbia.edu/Statics/monographs/Image%20Sensing%20FPCV-1-2.pdf
+  - https://cave.cs.columbia.edu/Statics/monographs/Binary%20Images%20FPCV-1-3.pdf
+  - https://cave.cs.columbia.edu/Statics/monographs/Image%20Processing%201%20FPCV-1-4.pdf
+  - https://cave.cs.columbia.edu/Statics/monographs/Image%20Processing%202%20FPCV-1-5.pdf
+  - https://cave.cs.columbia.edu/Statics/monographs/Edge%20Detection%20FPCV-2-1.pdf
+  - https://cave.cs.columbia.edu/Statics/monographs/Boundary%20Detection%20FPCV-2-2.pdf
+  - https://cave.cs.columbia.edu/Statics/monographs/SIFT%20Detector%20FPCV-2-3.pdf
